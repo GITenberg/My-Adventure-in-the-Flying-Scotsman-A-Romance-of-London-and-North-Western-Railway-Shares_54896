@@ -1,0 +1,24 @@
+_repo: My-Adventure-in-the-Flying-Scotsman-A-Romance-of-London-and-North-Western-Railway-Shares_54896
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Phillpotts, Eden
+    birthdate: 1862
+    deathdate: 1960
+    gutenberg_agent_id: '665'
+    url: http://www.gutenberg.org/2009/agents/665
+    wikipedia: http://en.wikipedia.org/wiki/Eden_Phillpotts
+description: ''
+gutenberg_issued: '2017-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54896'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: My Adventure in the Flying Scotsman; A Romance of London and North-Western
+  Railway Shares
+url: http://www.gutenberg.org/ebooks/54896
